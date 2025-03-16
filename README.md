@@ -8,20 +8,19 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: MARCELO HENRIQUE ALVES CAMPOLINA
+- Matricula: 880732
+- Proposta de projeto escolhida: Diretório de Receitas
+- Breve descrição sobre seu projeto: Diretório de Receitas de bebidas quente.
 
 
 ## Print do esboço criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![C:\Users\marce\OneDrive\Documentos\PUC\DIW\ATIVIDADE SEMANA 3\trabalho-pr-tico-semana-3-marcelocampolina\public\Captura de tela 2025-03-15 220207.jpg](<public/Captura de tela 2025-03-15 220207.jpg>)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![C:\Users\marce\OneDrive\Documentos\PUC\DIW\ATIVIDADE SEMANA 3\trabalho-pr-tico-semana-3-marcelocampolina\public\Captura de tela 2025-03-15 215649.jpg](<public/Captura de tela 2025-03-15 215649.jpg>)
 
-## Atualização
-Projeto em desenvolvimento.
+
